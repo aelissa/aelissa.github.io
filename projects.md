@@ -4,7 +4,7 @@ title: Projects
 sitemap: false
 ---
 
-### Mobilising Gender Data --- Timeline: June 2024 - February 2025 --- ESRC
+### Mobilising Gender Data --- Timeline: July 2025 - March 2026 --- ESRC
 
 This project aims to experiment with new ways to measure gender differences in everyday mobility using (geographic) digital footprint data, which is collected from people's interactions with mobile phones and other devices. While these data provide detailed information about people's movement, they only rarely have information on their gender. The project will develop new methods for disaggregating these data based on gender and explore how travel patterns differ at an unprecedented level of spatio-temporal resolution. The project will work with data sources available from the Urban Big Data Centre at the University of Glasgow, combining detailed movement data with evidence on the relationship between gender and transport. With a focus on active travel, it will look at what differences might be detected in the data based on gender. The process will allow for a reproducible method to examine these gender differences from new forms of mobility data. The outputs and knowledge generated can be useful to academic researchers in transportation, climate change, urban design, landscape architecture, and policy studies. Knowing how systems function presently and how they change in reaction to new policies can help decision-makers understand who benefits and who does not as cities and countries attempt to shift mobility patterns to combat environmental and climate change.
 

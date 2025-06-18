@@ -7,6 +7,8 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
+Alessia Calafiore, Ki Tong. [**Does noise pollution influence modal choices? A random forest application**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325249) PloS one, 2025.
+
 Cillian Berragan, Alex Singleton, Alessia Calafiore, and Jeremy Morley. [**Mapping Great Britain's semantic footprints through a large language model analysis of Reddit comments**](https://doi.org/10.1016/j.compenvurbsys.2024.102121) Computers, Environment and Urban Systems, Volume 110, June 2024.
 
 Cillian Berragan, Alex Singleton, Alessia Calafiore, and Jeremy Morley.[**Mapping cognitive place associations within the United Kingdom through online discussion on Reddit.**](https://rgs-ibg.onlinelibrary.wiley.com/doi/pdf/10.1111/tran.12669) Transactions of the Institute of British Geographers, 00:1–18, 2024. 
