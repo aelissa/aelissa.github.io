@@ -7,7 +7,7 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
-Alessia Calafiore. [**On Small Area Composite Indicators and Classifications for Urban Planning: theory-driven and data-driven approaches **](https://oajournals.fupress.net/index.php/contesti/article/view/15767) Contesti, 2026.
+Alessia Calafiore. [**On Small Area Composite Indicators and Classifications for Urban Planning: theory-driven and data-driven approaches**](https://oajournals.fupress.net/index.php/contesti/article/view/15767) Contesti, 2026.
 
 Alessia Calafiore, Ki Tong. [**Does noise pollution influence modal choices? A random forest application**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325249) PloS one, 2025.
 
