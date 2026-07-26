@@ -7,6 +7,8 @@ image: /assets/img/blog/hydejack-9.jpg
 
 ## Journal Articles
 
+Alessia Calafiore. [**On Small Area Composite Indicators and Classifications for Urban Planning: theory-driven and data-driven approaches **](https://oajournals.fupress.net/index.php/contesti/article/view/15767) Contesti, 2026.
+
 Alessia Calafiore, Ki Tong. [**Does noise pollution influence modal choices? A random forest application**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325249) PloS one, 2025.
 
 Cillian Berragan, Alex Singleton, Alessia Calafiore, and Jeremy Morley. [**Mapping Great Britain's semantic footprints through a large language model analysis of Reddit comments**](https://doi.org/10.1016/j.compenvurbsys.2024.102121) Computers, Environment and Urban Systems, Volume 110, June 2024.
@@ -54,7 +56,9 @@ Alessia Calafiore, Antonio Cittadino, Egidio Dansero, Alberto Di Gioia, Gabriele
 
 ## Book Chapters
 
-Giacomo Pettenati, Egidio Dansero, Alessia Calafiore, [**Researching and Enabling Youth Geographies in the Digital and Material City: The Teencarto Project**](https://www.igi-global.com/chapter/researching-and-enabling-youth-geographies-in-the-digital-and-material-city/223708), In Angioletta Voghera and Luigi La Riccia **Spatial Planning in the Big Data Revolution**, 2019
+Alessia Calafiore, Richard Dunning. [**Digitalisation, Urban Data, and the 15-Minute City**](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003299004-29/digitalisation-urban-data-15-minute-city-alessia-calafiore-richard-dunning), In **In The Routledge Companion to Comparative International Planning**, 2026.
+
+Giacomo Pettenati, Egidio Dansero, Alessia Calafiore, [**Researching and Enabling Youth Geographies in the Digital and Material City: The Teencarto Project**](https://www.igi-global.com/chapter/researching-and-enabling-youth-geographies-in-the-digital-and-material-city/223708), In **Spatial Planning in the Big Data Revolution**, 2019
 
 ## Extended Abstracts 
 
